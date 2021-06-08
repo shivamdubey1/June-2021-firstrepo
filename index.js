@@ -4,4 +4,7 @@ let person ={
     fullName:()=>{
         console.log(lname + '' +fname)
     },
+    reversename:()=>{
+        console.log(lname + '' +fname) 
+    },
 }
